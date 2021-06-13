@@ -1,0 +1,33 @@
+.container{
+    background-color: aqua;
+    height: 500px;
+    margin: auto;
+}
+.endis {
+    background-color: blueviolet;
+    height: 400px;
+    margin-top: 20px;
+}
+section{
+    margin: auto;
+}
+#forma {
+   margin: 10px;
+   background-color: chartreuse;
+   height: auto;
+   margin: auto;
+   max-width: 400px;
+  
+}
+.nam1 {
+    max-width: 100px;
+    margin: 10px;
+}
+#submitt{
+    margin: auto;
+    border-radius: 20px;
+    color: crimson;
+    background-color: cyan;
+    border: 2px solid red;
+    
+}
